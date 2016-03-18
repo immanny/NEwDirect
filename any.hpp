@@ -12,7 +12,7 @@
 //        with features contributed and bugs found by
 //        Antony Polukhin, Ed Brey, Mark Rodgers, 
 //        Peter Dimov, and James Curran
-// when:  July 2001, April 2013 - May 2013
+// when:  Jusdjfklasjdklfkajksldflkasjly 2001, April 2013 - May 2013
 
 #include <algorithm>
 
